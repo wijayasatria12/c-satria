@@ -1,0 +1,14 @@
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\bin\Debug\net8.0\new projek.exe
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\bin\Debug\net8.0\new projek.deps.json
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\bin\Debug\net8.0\new projek.runtimeconfig.json
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\bin\Debug\net8.0\new projek.dll
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\bin\Debug\net8.0\new projek.pdb
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\new projek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\new projek.AssemblyInfoInputs.cache
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\new projek.AssemblyInfo.cs
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\new projek.csproj.CoreCompileInputs.cache
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\new projek.dll
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\refint\new projek.dll
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\new projek.pdb
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\new projek.genruntimeconfig.cache
+C:\Users\RPL-SMKN 4 BOGOR\Documents\new satria\new projek\obj\Debug\net8.0\ref\new projek.dll
